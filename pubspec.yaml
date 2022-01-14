@@ -1,0 +1,33 @@
+name: flutter_vivita_fonts
+description: VIVITA Font for Flutter.
+version: 0.0.1
+homepage: https://github.com/vivitainc/flutter_vivita_fonts
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+  flutter: ">=2.8.1"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.3
+
+flutter:
+  fonts:
+    - family: VIVITA-Bold
+      fonts:
+        - asset: fonts/VIVITA-Bold.otf
+    - family: VIVITA-Light
+      fonts:
+        - asset: fonts/VIVITA-Light.otf
+    - family: VIVITA-Medium
+      fonts:
+        - asset: fonts/VIVITA-Medium.otf
+    - family: VIVITA-Regular
+      fonts:
+        - asset: fonts/VIVITA-Regular.otf
