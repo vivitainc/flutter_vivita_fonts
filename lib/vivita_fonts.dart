@@ -1,3 +1,3 @@
-library flutter_vivita_fonts;
+library vivita_fonts;
 
 export 'src/vivita_fonts.dart';

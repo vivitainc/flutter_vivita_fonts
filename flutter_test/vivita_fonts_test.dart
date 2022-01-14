@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_vivita_fonts/flutter_vivita_fonts.dart';
+import 'package:vivita_fonts/vivita_fonts.dart';
 
 void main() {
   test('get VIVITA fonts', () async {
