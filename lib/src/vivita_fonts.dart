@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const _packageName = 'flutter_vivita_fonts';
+const _packageName = 'vivita_fonts';
 
 /// VIVITA Font list.
 class VivitaFonts {
